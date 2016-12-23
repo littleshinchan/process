@@ -1,5 +1,5 @@
 Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,GitHub ID,Integration,Owned By,Comment
-134631527,Add Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2017",feature,3,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am required to add username so that I can login
+134631527,Add Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2016",feature,3,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am required to add username so that I can login
 2. As a customer, I am required to add password so that I can login
 3. As a customer, I am required to add full name so that I am recognize by driver and make reservation
 4. As a customer, I am required to add contact number so that I can be contacted by driver and staff
@@ -24,7 +24,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631567,View Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2017",feature,2,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am allowed to view username so that I can verify the username is correct.
+134631567,View Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2016",feature,2,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am allowed to view username so that I can verify the username is correct.
 2. As a customer, I am allowed to view full name so that I can verify the username is correct.
 4. As a customer, I am allowed to view contact number so that I can verify the contact number is correct.
 5. As a customer, I am allowed to view email address  so that I can verify the email address is correct.
@@ -48,7 +48,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631535,Update Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2017",feature,1,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am allowed to update full name so that full name is corrected.
+134631535,Update Customer Record,customer,1,"Nov 15, 2016","Dec 2, 2016",feature,1,started,"Nov 15, 2016",,,Liew Ken Hieng,"1. As a customer, I am allowed to update full name so that full name is corrected.
 2. As a customer, I am allowed to update contact number so that contact number is corrected.
 3. As a customer, I am allowed to update email address so that email address is corrected.
 ",https://www.pivotaltracker.com/story/show/134631535,,,Liew Ken Hieng,"Commit by littleshinchan
@@ -71,7 +71,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631659,Add Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2017",feature,3,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver,I am required to add driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date into database so that the database will register my detail as new driver.",https://www.pivotaltracker.com/story/show/134631659,,,Weng Keong Tham,"Commit by littleshinchan
+134631659,Add Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2016",feature,3,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver,I am required to add driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date into database so that the database will register my detail as new driver.",https://www.pivotaltracker.com/story/show/134631659,,,Weng Keong Tham,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
 [Started #134631527][Started #134631567][Started #134631535][Started #134631659][Started #134631661][Started #134631663][Started #134631597][Started #134631601][Started #134631605][Started #134631485]
@@ -91,7 +91,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631661,View Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2017",feature,2,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver, i am allowed to view driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry so that can verify all detail is correct.",https://www.pivotaltracker.com/story/show/134631661,,,Weng Keong Tham,"Commit by littleshinchan
+134631661,View Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2016",feature,2,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver, i am allowed to view driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry so that can verify all detail is correct.",https://www.pivotaltracker.com/story/show/134631661,,,Weng Keong Tham,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
 [Started #134631527][Started #134631567][Started #134631535][Started #134631659][Started #134631661][Started #134631663][Started #134631597][Started #134631601][Started #134631605][Started #134631485]
