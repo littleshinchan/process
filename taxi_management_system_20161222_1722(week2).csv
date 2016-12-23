@@ -111,7 +111,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631663,Update Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2017",feature,1,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver, i am allowed to update driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date so that record is corrected.",https://www.pivotaltracker.com/story/show/134631663,,,Weng Keong Tham,"Commit by littleshinchan
+134631663,Update Driver Record,driver,1,"Nov 15, 2016","Dec 2, 2016",feature,1,started,"Nov 15, 2016",,,Weng Keong Tham,"As a driver, i am allowed to update driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date so that record is corrected.",https://www.pivotaltracker.com/story/show/134631663,,,Weng Keong Tham,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
 [Started #134631527][Started #134631567][Started #134631535][Started #134631659][Started #134631661][Started #134631663][Started #134631597][Started #134631601][Started #134631605][Started #134631485]
@@ -131,7 +131,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631597,Add Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2017",feature,3,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer,i can select pick up location and destination, so that i can make online reservation
+134631597,Add Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2016",feature,3,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer,i can select pick up location and destination, so that i can make online reservation
 As a customer,i can select pick up date and time, so that i can make online reservation",https://www.pivotaltracker.com/story/show/134631597,,,Lee Yi Hao,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
@@ -152,7 +152,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631601,View Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2017",feature,2,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer, i can view my reservation record,so that i can verify my reservation information
+134631601,View Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2016",feature,2,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer, i can view my reservation record,so that i can verify my reservation information
 As a customer, i can save my favorite location from reservation record.",https://www.pivotaltracker.com/story/show/134631601,,,Lee Yi Hao,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
@@ -173,7 +173,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631605,Update Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2017",feature,2,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer,I am able to update the pick up location and destination so that I do not need to make cancellation.
+134631605,Update Reservation Record,reservation,1,"Nov 15, 2016","Dec 2, 2016",feature,2,started,"Nov 15, 2016",,,Lee Yi Hao,"As a customer,I am able to update the pick up location and destination so that I do not need to make cancellation.
 ",https://www.pivotaltracker.com/story/show/134631605,,,Lee Yi Hao,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
@@ -194,7 +194,7 @@ Tham Weng keong
 [Lee Zi Xiang]
 [00.47]
 [Payment By Card] (Liew Ken Hieng - Dec 22, 2016)"
-134631485,Payment by Card,payment,1,"Nov 15, 2016","Dec 2, 2017",feature,2,started,"Nov 15, 2016",,,lzx,"As a customer, I can make payment with card by entering card type, card number, card security code and expiry date, so that the system will verify the card and able to make payment.",https://www.pivotaltracker.com/story/show/134631485,,,lzx,"Commit by littleshinchan
+134631485,Payment by Card,payment,1,"Nov 15, 2016","Dec 2, 2016",feature,2,started,"Nov 15, 2016",,,lzx,"As a customer, I can make payment with card by entering card type, card number, card security code and expiry date, so that the system will verify the card and able to make payment.",https://www.pivotaltracker.com/story/show/134631485,,,lzx,"Commit by littleshinchan
 https://github.com/littleshinchan/process/commit/50762de12a75234bdb9cda8ba3d651f8f9899102
 
 [Started #134631527][Started #134631567][Started #134631535][Started #134631659][Started #134631661][Started #134631663][Started #134631597][Started #134631601][Started #134631605][Started #134631485]
