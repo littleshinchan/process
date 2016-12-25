@@ -1,0 +1,608 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,GitHub ID,Integration,Owned By,Comment,Comment,Comment
+134631527,Add Customer Record,customer,2,"Nov 15, 2016","Dec 2, 2016",feature,3,accepted,"Nov 18, 2016","Dec 1, 2016",,Liew Ken Hieng,"1. As a customer, I can add username so that I can login
+2. As a customer, I can  add password so that I can login
+3. As a customer, I can  add full name so that I am recognize by driver and make reservation
+4. As a customer, I can  add contact number so that I can be contacted by driver and staff
+5. As a customer, I can  add email address so that i can receive the latest news and promotion
+6. As a customer, I can  add date of birth so that staff can send me birthday wishes and birthday promotion or voucher.",https://www.pivotaltracker.com/story/show/134631527,,,Liew Ken Hieng,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631567,View Customer Record,customer,2,"Nov 15, 2016","Dec 2, 2016",feature,2,accepted,"Nov 18, 2016","Dec 1, 2016",,Liew Ken Hieng,"1. As a customer, I can  view username so that I can verify the username is correct.
+2. As a customer, I can  view full name so that I can verify the username is correct.
+4. As a customer, I can  view contact number so that I can verify the contact number is correct.
+5. As a customer, I can  view email address  so that I can verify the email address is correct.
+6. As a customer, I can  view date of birth so that I can verify the date of birth is correct.",https://www.pivotaltracker.com/story/show/134631567,,,Liew Ken Hieng,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631535,Update Customer Record,customer,2,"Nov 15, 2016","Dec 2, 2016",feature,1,accepted,"Nov 18, 2016","Dec 1, 2016",,Liew Ken Hieng,"1. As a customer, I can  update full name so that full name is corrected.
+2. As a customer, I can  update contact number so that contact number is corrected.
+3. As a customer, I can  update email address so that email address is corrected.
+",https://www.pivotaltracker.com/story/show/134631535,,,Liew Ken Hieng,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631659,Add Driver Record,driver,2,"Nov 15, 2016","Dec 2, 2016",feature,3,accepted,"Nov 18, 2016","Dec 1, 2016",,Weng Keong Tham,"As a driver,I am required to add driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date into database so that the database will register my detail as new driver.",https://www.pivotaltracker.com/story/show/134631659,,,Weng Keong Tham,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631661,View Driver Record,driver,2,"Nov 15, 2016","Dec 2, 2016",feature,2,accepted,"Nov 18, 2016","Dec 1, 2016",,Weng Keong Tham,"As a driver, i am allowed to view driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry so that can verify all detail is correct.",https://www.pivotaltracker.com/story/show/134631661,,,Weng Keong Tham,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631663,Update Driver Record,driver,2,"Nov 15, 2016","Dec 2, 2016",feature,1,accepted,"Nov 18, 2016","Dec 1, 2016",,Weng Keong Tham,"As a driver, i am allowed to update driver username, password, full name, ic number(unique), contact number(unique), email address(unique), home address, taxi company name, taxi plate number(unique), date of birth, license expiry date so that record is corrected.",https://www.pivotaltracker.com/story/show/134631663,,,Weng Keong Tham,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631597,Add Reservation Record,reservation,2,"Nov 15, 2016","Dec 2, 2016",feature,3,accepted,"Nov 18, 2016","Dec 1, 2016",,Lee Yi Hao,"As a customer,i can select pick up location and destination, so that i can make online reservation
+As a customer,i can select pick up date and time, so that i can make online reservation",https://www.pivotaltracker.com/story/show/134631597,,,Lee Yi Hao,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631601,View Reservation Record,reservation,2,"Nov 15, 2016","Dec 2, 2016",feature,2,accepted,"Nov 18, 2016","Dec 1, 2016",,Lee Yi Hao,"As a customer, i can view my reservation record,so that i can verify my reservation information
+As a customer, i can save my favorite location from reservation record.",https://www.pivotaltracker.com/story/show/134631601,,,Lee Yi Hao,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631605,Update Reservation Record,reservation,2,"Nov 15, 2016","Dec 2, 2016",feature,2,accepted,"Nov 18, 2016","Dec 1, 2016",,Lee Yi Hao,"As a customer,I am able to update the pick up location and destination so that I do not need to make cancellation.
+",https://www.pivotaltracker.com/story/show/134631605,,,Lee Yi Hao,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+134631485,Payment by Card,payment,2,"Nov 15, 2016","Dec 2, 2016",feature,2,accepted,"Nov 18, 2016","Dec 1, 2016",,lzx,"As a customer, I can make payment with card by entering card type, card number, card security code and expiry date, so that the system will verify the card and able to make payment.",https://www.pivotaltracker.com/story/show/134631485,,,lzx,"Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/8897c8c599b95f254273724b98148b3c98f2470d
+
+[Start #134631527][Start #134631567][Start #134631535][Start #134631659][Start #134631661][Start #134631663][Start #134631597][Start #134631601][Start #134631605][Start #134631485]
+
+[Liew Ken Hieng]
+[21.00]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.00]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.00]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.00]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/58ca9b919d4ec529cd16f1145468dd9d16659a7a
+
+[Finishes #134631527][Finishes #134631567][Finishes #134631535][Finishes #134631659][Finishes #134631661][Finishes #134631663][Finishes #134631597][Finishes #134631601][Finishes #134631605][Finishes #134631485]
+
+[Liew Ken Hieng]
+[19.30]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[19.30]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[19.30]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[19.30]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)","Commit by littleshinchan
+https://github.com/littleshinchan/process/commit/90b6a122f6845177c1c70dff3f729b1b195d9289
+
+[Deliver #134631527][Deliver #134631567][Deliver #134631535][Deliver #134631659][Deliver #134631661][Deliver #134631663][Deliver #134631597][Deliver #134631601][Deliver #134631605][Deliver #134631485]
+
+[Liew Ken Hieng]
+[21.15]
+[Add Customer Record] [View Customer Record][Update Customer Record],[Customer]
+
+Tham Weng keong
+[21.15]
+[Add Driver Record] [View Driver  Record][Update Driver Record],[Driver]
+
+[Lee Yi Hao]
+[21.15]
+[Add Reservation Record] [View Reservation Record][Update Reservation Record],[Reservation]
+
+[Lee Zi Xiang]
+[21.15]
+[Payment By Card],[Payment] (Liew Ken Hieng - Dec 23, 2016)"
+136507235,Reservation Cancellation,reservation,2,"Dec 5, 2016","Dec 23, 2016",feature,2,unstarted,"Dec 21, 2016",,,Lee Yi Hao,"As a customer,i can cancel my reservation so that i will not waste my money.",https://www.pivotaltracker.com/story/show/136507235,,,Lee Yi Hao,,,
+134991535,Customer Monthly Summary Report,report,2,"Dec 5, 2016","Dec 23, 2016",feature,1,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"As a manager,i can generate or view customer monthly summary report by selecting the desire month so that i can make decision for the future.",https://www.pivotaltracker.com/story/show/134991535,,,Liew Ken Hieng,,,
+134991547,Customer Yearly Summary Report,report,2,"Dec 5, 2016","Dec 23, 2016",feature,1,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"As a manager,i can generate or view customer yearly summary report by selecting the desire year so that i can make decision for the future.",https://www.pivotaltracker.com/story/show/134991547,,,Liew Ken Hieng,,,
+134992013,Reservation Exception Report,report,2,"Dec 5, 2016","Dec 23, 2016",feature,1,unstarted,"Nov 27, 2016",,,Lee Yi Hao,"As a manager, i can generate or view reservation exception report by selecting the desire year and month so that i can make decision for the future.",https://www.pivotaltracker.com/story/show/134992013,,,Lee Yi Hao,,,
+134991995,Reservation Monthly Summary Report,report,2,"Dec 5, 2016","Dec 23, 2016",feature,1,unstarted,"Nov 27, 2016",,,Lee Yi Hao,"As a manager,i can generate or view reservation monthly summary report by selecting the desire month so that i can make decision for the future.",https://www.pivotaltracker.com/story/show/134991995,,,Lee Yi Hao,,,
+134631509,Cancel Payment ,payment,2,"Dec 5, 2016","Dec 23, 2016",feature,2,unstarted,"Nov 18, 2016",,,lzx,"As a customer, I can cancel my payment so that i will not waste my money.",https://www.pivotaltracker.com/story/show/134631509,,,lzx,,,
+134991421,Driver Login,login,2,"Dec 5, 2016","Dec 23, 2016",feature,3,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"1. As a driver, I can  enter username and password so that i can login to the system.",https://www.pivotaltracker.com/story/show/134991421,,,Liew Ken Hieng,,,
+134991505,Customer Password Recovery,login,2,"Dec 5, 2016","Dec 23, 2016",feature,2,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"1. As a customer, I can enter username and email address so that the system will send the new password through email.
+2. As a customer, I can change password by entering new password so that I can login using new password.",https://www.pivotaltracker.com/story/show/134991505,,,Liew Ken Hieng,,,
+134991513,Driver Password Recovery,login,2,"Dec 5, 2016","Dec 23, 2016",feature,2,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"1. As a driver, I can enter username and email address so that the system will send the new password through email.
+2. As a driver, I can change password by entering new password so that I can login using new password.",https://www.pivotaltracker.com/story/show/134991513,,,Liew Ken Hieng,,,
+134991413,Customer Login,login,2,"Dec 5, 2016","Dec 23, 2016",feature,3,unstarted,"Nov 26, 2016",,,Liew Ken Hieng,"1. As a customer, I can enter username and password so that I can login so that i can login to the system.",https://www.pivotaltracker.com/story/show/134991413,,,Liew Ken Hieng,,,
